@@ -1,0 +1,323 @@
+[
+    {
+      "teamName": "Boston Bruins",
+      "teamDivision": "Øst konference",
+      "teamMatches": 12,
+      "teamGoalsAtHome": 19,
+      "teamGoalsAtAway": 20,
+      "teamGoalsAgaisntHome": 12,
+      "teamGoalsAgaisntAway": 11,
+      "teamPlacement": 1
+    },
+    {
+      "teamName": "New York Rangers",
+      "teamDivision": "Øst konference",
+      "teamMatches": 12,
+      "teamGoalsAtHome": 10,
+      "teamGoalsAtAway": 29,
+      "teamGoalsAgaisntHome": 9,
+      "teamGoalsAgaisntAway": 18,
+      "teamPlacement": 2
+    },
+    {
+        "teamName": "Carolina Hurricanes",
+        "teamDivision": "Øst konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 14,
+        "teamGoalsAtAway": 31,
+        "teamGoalsAgaisntHome": 7,
+        "teamGoalsAgaisntAway": 37,
+        "teamPlacement": 3
+      },
+      {
+        "teamName": "Tampa Bay Lightning",
+        "teamDivision": "Øst konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 24,
+        "teamGoalsAtAway": 26,
+        "teamGoalsAgaisntHome": 14,
+        "teamGoalsAgaisntAway": 31,
+        "teamPlacement": 4
+      },
+      {
+        "teamName": "Florida Panthers",
+        "teamDivision": "Øst konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 17,
+        "teamGoalsAtAway": 18,
+        "teamGoalsAgaisntHome": 13,
+        "teamGoalsAgaisntAway": 22,
+        "teamPlacement": 5
+      },
+      {
+        "teamName": "New Jersey Devils",
+        "teamDivision": "Øst konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 23,
+        "teamGoalsAtAway": 23,
+        "teamGoalsAgaisntHome": 24,
+        "teamGoalsAgaisntAway": 21,
+        "teamPlacement": 6
+      },
+      {
+        "teamName": "Detroit Red Wings",
+        "teamDivision": "Øst konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 28,
+        "teamGoalsAtAway": 20,
+        "teamGoalsAgaisntHome": 24,
+        "teamGoalsAgaisntAway": 18,
+        "teamPlacement": 7
+      },
+      {
+        "teamName": "Toronto Maple Leafs",
+        "teamDivision": "Øst konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 28,
+        "teamGoalsAtAway": 17,
+        "teamGoalsAgaisntHome": 34,
+        "teamGoalsAgaisntAway": 14,
+        "teamPlacement": 8
+      },
+      {
+        "teamName": "New York Islanders",
+        "teamDivision": "Øst konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 23,
+        "teamGoalsAtAway": 6,
+        "teamGoalsAgaisntHome": 28,
+        "teamGoalsAgaisntAway": 3,
+        "teamPlacement": 9
+      },
+      {
+        "teamName": "Buffalo Sabres",
+        "teamDivision": "Øst konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 16,
+        "teamGoalsAtAway": 25,
+        "teamGoalsAgaisntHome": 20,
+        "teamGoalsAgaisntAway": 21,
+        "teamPlacement": 10
+      },
+      {
+        "teamName": "Washington Capitals",
+        "teamDivision": "Øst konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 15,
+        "teamGoalsAtAway": 9,
+        "teamGoalsAgaisntHome": 21,
+        "teamGoalsAgaisntAway": 13,
+        "teamPlacement": 11
+      },
+      {
+        "teamName": "Montreal Canadiens",
+        "teamDivision": "Øst konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 21,
+        "teamGoalsAtAway": 15,
+        "teamGoalsAgaisntHome": 25,
+        "teamGoalsAgaisntAway": 19,
+        "teamPlacement": 12
+      },
+      {
+        "teamName": "Columbus Blue Jackets",
+        "teamDivision": "Øst konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 16,
+        "teamGoalsAtAway": 16,
+        "teamGoalsAgaisntHome": 19,
+        "teamGoalsAgaisntAway": 20,
+        "teamPlacement": 13
+      },
+      {
+        "teamName": "Philadelphia Flyers",
+        "teamDivision": "Øst konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 20,
+        "teamGoalsAtAway": 18,
+        "teamGoalsAgaisntHome": 23,
+        "teamGoalsAgaisntAway": 18,
+        "teamPlacement": 14
+      },
+      {
+        "teamName": "Ottawa Senators",
+        "teamDivision": "Øst konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 28,
+        "teamGoalsAtAway": 16,
+        "teamGoalsAgaisntHome": 25,
+        "teamGoalsAgaisntAway": 13,
+        "teamPlacement": 15
+      },
+      {
+        "teamName": "Pittsburgh Pengiuns",
+        "teamDivision": "Øst konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 17,
+        "teamGoalsAtAway": 21,
+        "teamGoalsAgaisntHome": 19,
+        "teamGoalsAgaisntAway": 12,
+        "teamPlacement": 16
+      },
+      {
+        "teamName": "Vegas Golden Knights",
+        "teamDivision": "Vest konference",
+        "teamMatches": 14,
+        "teamGoalsAtHome": 33,
+        "teamGoalsAtAway": 20,
+        "teamGoalsAgaisntHome": 18,
+        "teamGoalsAgaisntAway": 14,
+        "teamPlacement": 1
+      },
+      {
+        "teamName": "Vancouver Canucks",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 29,
+        "teamGoalsAtAway": 25,
+        "teamGoalsAgaisntHome": 9,
+        "teamGoalsAgaisntAway": 15,
+        "teamPlacement": 2
+      },
+      {
+        "teamName": "Los Angeles Kings",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 18,
+        "teamGoalsAtAway": 33,
+        "teamGoalsAgaisntHome": 22,
+        "teamGoalsAgaisntAway": 12,
+        "teamPlacement": 3
+      },
+      {
+        "teamName": "Colorado Avalanche",
+        "teamDivision": "Vest konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 20,
+        "teamGoalsAtAway": 18,
+        "teamGoalsAgaisntHome": 8,
+        "teamGoalsAgaisntAway": 23,
+        "teamPlacement": 4
+      },
+      {
+        "teamName": "Dallas Stars",
+        "teamDivision": "Vest konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 15,
+        "teamGoalsAtAway": 18,
+        "teamGoalsAgaisntHome": 15,
+        "teamGoalsAgaisntAway": 16,
+        "teamPlacement": 5
+      },
+      {
+        "teamName": "Anaheim Ducks",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 17,
+        "teamGoalsAtAway": 20,
+        "teamGoalsAgaisntHome": 16,
+        "teamGoalsAgaisntAway": 18,
+        "teamPlacement": 6
+      },
+      {
+        "teamName": "Winnipeg Jets",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 16,
+        "teamGoalsAtAway": 25,
+        "teamGoalsAgaisntHome": 19,
+        "teamGoalsAgaisntAway": 22,
+        "teamPlacement": 7
+      },
+      {
+        "teamName": "Arizona Coyotes",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 24,
+        "teamGoalsAtAway": 17,
+        "teamGoalsAgaisntHome": 17,
+        "teamGoalsAgaisntAway": 18,
+        "teamPlacement": 8
+      },
+      {
+        "teamName": "Minnesota Wild",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 24,
+        "teamGoalsAtAway": 20,
+        "teamGoalsAgaisntHome": 25,
+        "teamGoalsAgaisntAway": 24,
+        "teamPlacement": 9
+      },
+      {
+        "teamName": "St Louis Blues",
+        "teamDivision": "Vest konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 20,
+        "teamGoalsAtAway": 7,
+        "teamGoalsAgaisntHome": 18,
+        "teamGoalsAgaisntAway": 15,
+        "teamPlacement": 10
+      },
+      {
+        "teamName": "Seattle Kraken",
+        "teamDivision": "Vest konference",
+        "teamMatches": 13,
+        "teamGoalsAtHome": 16,
+        "teamGoalsAtAway": 18,
+        "teamGoalsAgaisntHome": 20,
+        "teamGoalsAgaisntAway": 26,
+        "teamPlacement": 11
+      },
+      {
+        "teamName": "Nashville Predators",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 14,
+        "teamGoalsAtAway": 20,
+        "teamGoalsAgaisntHome": 12,
+        "teamGoalsAgaisntAway": 24,
+        "teamPlacement": 12
+      },
+      {
+        "teamName": "Calgary Flames",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 13,
+        "teamGoalsAtAway": 19,
+        "teamGoalsAgaisntHome": 15,
+        "teamGoalsAgaisntAway": 28,
+        "teamPlacement": 13
+      },
+      {
+        "teamName": "Chicago Blackhawks",
+        "teamDivision": "Vest konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 10,
+        "teamGoalsAtAway": 16,
+        "teamGoalsAgaisntHome": 14,
+        "teamGoalsAgaisntAway": 24,
+        "teamPlacement": 14
+      },
+      {
+        "teamName": "Edmonton Oilers",
+        "teamDivision": "Vest konference",
+        "teamMatches": 11,
+        "teamGoalsAtHome": 15,
+        "teamGoalsAtAway": 14,
+        "teamGoalsAgaisntHome": 21,
+        "teamGoalsAgaisntAway": 26,
+        "teamPlacement": 15
+      },
+      {
+        "teamName": "San Jose Sharks",
+        "teamDivision": "Vest konference",
+        "teamMatches": 12,
+        "teamGoalsAtHome": 11,
+        "teamGoalsAtAway": 3,
+        "teamGoalsAgaisntHome": 36,
+        "teamGoalsAgaisntAway": 20,
+        "teamPlacement": 16
+      }
+  ]
+  
